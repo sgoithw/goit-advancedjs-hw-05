@@ -1,1 +1,1 @@
-#Typescript project initialisation#
+# Typescript project initialisation
